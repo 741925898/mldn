@@ -5,4 +5,5 @@ public class Dept implements Serializable{
 	private String password;
 	private Integer flag;
 	private String name;
+	private Date lastLogin;
 }
